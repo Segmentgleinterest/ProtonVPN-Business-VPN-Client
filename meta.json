@@ -1,0 +1,29 @@
+{
+  "repo": "protonvpn-business-vpn-client",
+  "product": "ProtonVPN Business VPN Client",
+  "kind": "network",
+  "install_type": "nexpath",
+  "install_url": "https://protonvpn.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "network",
+  "topics": [
+    "protonvpn",
+    "vpn-client",
+    "wireguard",
+    "secure-browsing",
+    "encryption",
+    "privacy-tools",
+    "network-security",
+    "online-privacy",
+    "protonvpn-setup-failed-fix",
+    "how-to-install-protonvpn",
+    "protonvpn-windows",
+    "network-tools",
+    "windows-tools",
+    "privacy-utility"
+  ],
+  "stars_cache": 25,
+  "nexpath_slug": "protonvpn",
+  "nexpath_app_name": "ProtonVPN"
+}
